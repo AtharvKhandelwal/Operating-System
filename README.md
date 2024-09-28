@@ -18,12 +18,7 @@ Operating Systems. The project covers the following key tasks:
 - LOOK
   
 ## Getting Started
-To run this project on your local machine, follow these steps:
-1. Clone the repository:
- ```bash
- git clone https://github.com/Deepak-Kavia/Operating-System-Simulator.git
-```
-2. Run the .exe project
+1. Run the .exe project
 ## Usage
 The project provides a command-line interface to interact with different algorithm implementations.
 Once you run the executable, you will be prompted to select the desired algorithm and provide any
